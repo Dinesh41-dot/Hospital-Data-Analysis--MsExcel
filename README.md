@@ -48,4 +48,10 @@ This project focuses on analyzing hospital data to gain meaningful insights into
 ## Key Insights
 - Identified patient distribution across different medical conditions.
 - Analyzed admission trends and patient demographics.
-- Compared
+  Compared healthcare data across different categories.
+
+Conclusion
+This project demonstrates the use of Microsoft Excel for healthcare data analysis and visualization. It highlights practical skills in data cleaning, data analysis, dashboard development, and presenting meaningful insights from raw hospital data.
+
+Skills Demonstrated
+Excel | Data Cleaning | Data Analysis | Pivot Tables | Pivot Charts | Dashboard Development | Data Visualization
